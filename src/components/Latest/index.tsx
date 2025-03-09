@@ -13,9 +13,9 @@ const Latest = () => {
 			image: p1,
 		},
 		{
-			title: "Boston House",
+			title: "Signature Towers",
 			code: "019",
-			location: "US, Boston",
+			location: "Banglore, India",
 			price: "₹98,460,000",
 			image: p2,
 		},
