@@ -5,8 +5,7 @@ const Footer = () => {
 				<div className="flex flex-col gap-7">
 					<span className="text-[#333] font-bold text-[28px]">R.Estates</span>
 					<p className="text-[#333] font-medium text-[15px] max-w-[300px] leading-7">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem voluptatibus earum
-						labore perspiciatis, a alias inventore.
+						made with ✨ by <a href="https://github.com/tharun30115">tharun</a>
 					</p>
 				</div>
 				<div className="flex flex-col md:mb-0 mb-5">
