@@ -13,3 +13,14 @@ body {
 	overflow-x: hidden;
 	background-color: #fff;
 }
+
+::-webkit-scrollbar {
+	width: 8px;
+	height: 6px;
+}
+::-webkit-scrollbar {
+	background: #e6e0d9 !important;
+}
+::-webkit-scrollbar-thumb {
+	background: #416477 !important;
+}
