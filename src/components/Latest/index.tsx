@@ -6,9 +6,9 @@ import p4 from "../../assets/images/p4.webp";
 const Latest = () => {
 	const items = [
 		{
-			title: "Vancouver Villa",
+			title: "Brigade Towers",
 			code: "036",
-			location: "Vancouver, BC",
+			location: "Banglore, India",
 			price: "₹99,99,990",
 			image: p1,
 		},
@@ -20,16 +20,16 @@ const Latest = () => {
 			image: p2,
 		},
 		{
-			title: "NewYork Apartment",
+			title: "Prestige Apartments",
 			code: "051",
-			location: "Vancouver, BC",
-			price: "₹78,950,000",
+			location: "Banglore, India",
+			price: "₹98,950,000",
 			image: p3,
 		},
 		{
-			title: "Toronto House",
+			title: "Ncc captures",
 			code: "073",
-			location: "Canada, Toronto",
+			location: "Banglore, India",
 			price: "₹67,300,000",
 			image: p4,
 		},
