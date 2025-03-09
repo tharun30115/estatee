@@ -15,7 +15,7 @@ const Header = () => {
 			style={{ backgroundImage: `url(${bg})` }}
 		>
 			<div className="flex items-center justify-between absolute top-5 z-50 w-full md:px-[150px] px-5">
-				<span className="text-[#fff7ee] font-semibold text-[30px]">Estatess</span>
+				<span className="text-[#fff7ee] font-semibold text-[30px]">Estatee</span>
 				<div className="lg:flex hidden items-center gap-5">
 					{navItems.map((item) => (
 						<a

@@ -3,7 +3,7 @@ const Footer = () => {
 		<div className="w-full bg-[#F7F7F7] pt-[120px] md:px-[150px] px-8 pb-[56px] mt-[60px]">
 			<div className="w-full flex md:flex-row flex-col md:items-center justify-between md:gap-0 gap-8">
 				<div className="flex flex-col gap-7">
-					<span className="text-[#333] font-bold text-[28px]">R.Estates</span>
+					<span className="text-[#333] font-bold text-[28px]">Estatee</span>
 					<p className="text-[#333] font-medium text-[15px] max-w-[300px] leading-7">
 						made with ✨ by <a href="https://github.com/tharun30115">tharun</a>
 					</p>
